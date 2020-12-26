@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "MUJRNx74KaUGLZS1rSRp8f8Ms38UOW6oUsWdYD93tg7SbBn54his/V6KR7gkAikClpz5bt+6Tb5uot7zbMHYAw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hrist\\Desktop\\SEDC 2019-2020\\09_Practical ASP.NET apps development\\Proekt\\SEDC.Lamazon.Web\\Practical-ASP.NET-apps-development\\SEDC.Lamazon\\SEDC.Lamazon.WebModels\\SEDC.Lamazon.WebModels.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hrist\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
+    "C:\\Users\\hrist\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
+    "C:\\Users\\hrist\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.1.0\\microsoft.netcore.dotnethostpolicy.2.1.0.nupkg.sha512",
+    "C:\\Users\\hrist\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.1.0\\microsoft.netcore.dotnethostresolver.2.1.0.nupkg.sha512",
+    "C:\\Users\\hrist\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.0\\microsoft.netcore.platforms.2.1.0.nupkg.sha512",
+    "C:\\Users\\hrist\\.nuget\\packages\\microsoft.netcore.targets\\2.1.0\\microsoft.netcore.targets.2.1.0.nupkg.sha512",
+    "C:\\Users\\hrist\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

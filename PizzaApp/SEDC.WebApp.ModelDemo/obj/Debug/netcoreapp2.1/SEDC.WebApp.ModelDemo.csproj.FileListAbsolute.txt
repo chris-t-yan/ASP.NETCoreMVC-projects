@@ -1,0 +1,88 @@
+C:\Users\hrist\Desktop\SEDC 2019-2020\07_MVC\Vezbi i proekti\MVCTasksAndExercises\Class07_RefactorPizzaApp\SEDC.WebApp.ModelDemo\SEDC.WebApp.ModelDemo\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\hrist\Desktop\SEDC 2019-2020\07_MVC\Vezbi i proekti\MVCTasksAndExercises\Class07_RefactorPizzaApp\SEDC.WebApp.ModelDemo\SEDC.WebApp.ModelDemo\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\hrist\Desktop\SEDC 2019-2020\07_MVC\Vezbi i proekti\MVCTasksAndExercises\Class07_RefactorPizzaApp\SEDC.WebApp.ModelDemo\SEDC.WebApp.ModelDemo\bin\Debug\netcoreapp2.1\SEDC.WebApp.ModelDemo.deps.json
+C:\Users\hrist\Desktop\SEDC 2019-2020\07_MVC\Vezbi i proekti\MVCTasksAndExercises\Class07_RefactorPizzaApp\SEDC.WebApp.ModelDemo\SEDC.WebApp.ModelDemo\bin\Debug\netcoreapp2.1\SEDC.WebApp.ModelDemo.runtimeconfig.json
+C:\Users\hrist\Desktop\SEDC 2019-2020\07_MVC\Vezbi i proekti\MVCTasksAndExercises\Class07_RefactorPizzaApp\SEDC.WebApp.ModelDemo\SEDC.WebApp.ModelDemo\bin\Debug\netcoreapp2.1\SEDC.WebApp.ModelDemo.runtimeconfig.dev.json
+C:\Users\hrist\Desktop\SEDC 2019-2020\07_MVC\Vezbi i proekti\MVCTasksAndExercises\Class07_RefactorPizzaApp\SEDC.WebApp.ModelDemo\SEDC.WebApp.ModelDemo\bin\Debug\netcoreapp2.1\SEDC.WebApp.ModelDemo.dll
+C:\Users\hrist\Desktop\SEDC 2019-2020\07_MVC\Vezbi i proekti\MVCTasksAndExercises\Class07_RefactorPizzaApp\SEDC.WebApp.ModelDemo\SEDC.WebApp.ModelDemo\bin\Debug\netcoreapp2.1\SEDC.WebApp.ModelDemo.pdb
+C:\Users\hrist\Desktop\SEDC 2019-2020\07_MVC\Vezbi i proekti\MVCTasksAndExercises\Class07_RefactorPizzaApp\SEDC.WebApp.ModelDemo\SEDC.WebApp.ModelDemo\bin\Debug\netcoreapp2.1\SEDC.WebApp.ModelDemo.Views.dll
+C:\Users\hrist\Desktop\SEDC 2019-2020\07_MVC\Vezbi i proekti\MVCTasksAndExercises\Class07_RefactorPizzaApp\SEDC.WebApp.ModelDemo\SEDC.WebApp.ModelDemo\bin\Debug\netcoreapp2.1\SEDC.WebApp.ModelDemo.Views.pdb
+C:\Users\hrist\Desktop\SEDC 2019-2020\07_MVC\Vezbi i proekti\MVCTasksAndExercises\Class07_RefactorPizzaApp\SEDC.WebApp.ModelDemo\SEDC.WebApp.ModelDemo\bin\Debug\netcoreapp2.1\SEDC.WebApp.ModelDemo.DataAccess.dll
+C:\Users\hrist\Desktop\SEDC 2019-2020\07_MVC\Vezbi i proekti\MVCTasksAndExercises\Class07_RefactorPizzaApp\SEDC.WebApp.ModelDemo\SEDC.WebApp.ModelDemo\bin\Debug\netcoreapp2.1\SEDC.WebApp.ModelDemo.Services.dll
+C:\Users\hrist\Desktop\SEDC 2019-2020\07_MVC\Vezbi i proekti\MVCTasksAndExercises\Class07_RefactorPizzaApp\SEDC.WebApp.ModelDemo\SEDC.WebApp.ModelDemo\bin\Debug\netcoreapp2.1\SEDC.WebApp.ModelDemo.DataAccess.pdb
+C:\Users\hrist\Desktop\SEDC 2019-2020\07_MVC\Vezbi i proekti\MVCTasksAndExercises\Class07_RefactorPizzaApp\SEDC.WebApp.ModelDemo\SEDC.WebApp.ModelDemo\bin\Debug\netcoreapp2.1\SEDC.WebApp.ModelDemo.Services.pdb
+C:\Users\hrist\Desktop\SEDC 2019-2020\07_MVC\Vezbi i proekti\MVCTasksAndExercises\Class07_RefactorPizzaApp\SEDC.WebApp.ModelDemo\SEDC.WebApp.ModelDemo\obj\Debug\netcoreapp2.1\SEDC.WebApp.ModelDemo.csprojAssemblyReference.cache
+C:\Users\hrist\Desktop\SEDC 2019-2020\07_MVC\Vezbi i proekti\MVCTasksAndExercises\Class07_RefactorPizzaApp\SEDC.WebApp.ModelDemo\SEDC.WebApp.ModelDemo\obj\Debug\netcoreapp2.1\SEDC.WebApp.ModelDemo.AssemblyInfoInputs.cache
+C:\Users\hrist\Desktop\SEDC 2019-2020\07_MVC\Vezbi i proekti\MVCTasksAndExercises\Class07_RefactorPizzaApp\SEDC.WebApp.ModelDemo\SEDC.WebApp.ModelDemo\obj\Debug\netcoreapp2.1\SEDC.WebApp.ModelDemo.AssemblyInfo.cs
+C:\Users\hrist\Desktop\SEDC 2019-2020\07_MVC\Vezbi i proekti\MVCTasksAndExercises\Class07_RefactorPizzaApp\SEDC.WebApp.ModelDemo\SEDC.WebApp.ModelDemo\obj\Debug\netcoreapp2.1\SEDC.WebApp.ModelDemo.csproj.CoreCompileInputs.cache
+C:\Users\hrist\Desktop\SEDC 2019-2020\07_MVC\Vezbi i proekti\MVCTasksAndExercises\Class07_RefactorPizzaApp\SEDC.WebApp.ModelDemo\SEDC.WebApp.ModelDemo\obj\Debug\netcoreapp2.1\SEDC.WebApp.ModelDemo.RazorAssemblyInfo.cache
+C:\Users\hrist\Desktop\SEDC 2019-2020\07_MVC\Vezbi i proekti\MVCTasksAndExercises\Class07_RefactorPizzaApp\SEDC.WebApp.ModelDemo\SEDC.WebApp.ModelDemo\obj\Debug\netcoreapp2.1\SEDC.WebApp.ModelDemo.RazorAssemblyInfo.cs
+C:\Users\hrist\Desktop\SEDC 2019-2020\07_MVC\Vezbi i proekti\MVCTasksAndExercises\Class07_RefactorPizzaApp\SEDC.WebApp.ModelDemo\SEDC.WebApp.ModelDemo\obj\Debug\netcoreapp2.1\SEDC.WebApp.ModelDemo.TagHelpers.input.cache
+C:\Users\hrist\Desktop\SEDC 2019-2020\07_MVC\Vezbi i proekti\MVCTasksAndExercises\Class07_RefactorPizzaApp\SEDC.WebApp.ModelDemo\SEDC.WebApp.ModelDemo\obj\Debug\netcoreapp2.1\SEDC.WebApp.ModelDemo.TagHelpers.output.cache
+C:\Users\hrist\Desktop\SEDC 2019-2020\07_MVC\Vezbi i proekti\MVCTasksAndExercises\Class07_RefactorPizzaApp\SEDC.WebApp.ModelDemo\SEDC.WebApp.ModelDemo\obj\Debug\netcoreapp2.1\SEDC.WebApp.ModelDemo.RazorCoreGenerate.cache
+C:\Users\hrist\Desktop\SEDC 2019-2020\07_MVC\Vezbi i proekti\MVCTasksAndExercises\Class07_RefactorPizzaApp\SEDC.WebApp.ModelDemo\SEDC.WebApp.ModelDemo\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\hrist\Desktop\SEDC 2019-2020\07_MVC\Vezbi i proekti\MVCTasksAndExercises\Class07_RefactorPizzaApp\SEDC.WebApp.ModelDemo\SEDC.WebApp.ModelDemo\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.cshtml.g.cs
+C:\Users\hrist\Desktop\SEDC 2019-2020\07_MVC\Vezbi i proekti\MVCTasksAndExercises\Class07_RefactorPizzaApp\SEDC.WebApp.ModelDemo\SEDC.WebApp.ModelDemo\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\hrist\Desktop\SEDC 2019-2020\07_MVC\Vezbi i proekti\MVCTasksAndExercises\Class07_RefactorPizzaApp\SEDC.WebApp.ModelDemo\SEDC.WebApp.ModelDemo\obj\Debug\netcoreapp2.1\Razor\Views\Home\PizzaDetails.cshtml.g.cs
+C:\Users\hrist\Desktop\SEDC 2019-2020\07_MVC\Vezbi i proekti\MVCTasksAndExercises\Class07_RefactorPizzaApp\SEDC.WebApp.ModelDemo\SEDC.WebApp.ModelDemo\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\hrist\Desktop\SEDC 2019-2020\07_MVC\Vezbi i proekti\MVCTasksAndExercises\Class07_RefactorPizzaApp\SEDC.WebApp.ModelDemo\SEDC.WebApp.ModelDemo\obj\Debug\netcoreapp2.1\Razor\Views\Order\Index.cshtml.g.cs
+C:\Users\hrist\Desktop\SEDC 2019-2020\07_MVC\Vezbi i proekti\MVCTasksAndExercises\Class07_RefactorPizzaApp\SEDC.WebApp.ModelDemo\SEDC.WebApp.ModelDemo\obj\Debug\netcoreapp2.1\Razor\Views\Order\OrderMenu.cshtml.g.cs
+C:\Users\hrist\Desktop\SEDC 2019-2020\07_MVC\Vezbi i proekti\MVCTasksAndExercises\Class07_RefactorPizzaApp\SEDC.WebApp.ModelDemo\SEDC.WebApp.ModelDemo\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\hrist\Desktop\SEDC 2019-2020\07_MVC\Vezbi i proekti\MVCTasksAndExercises\Class07_RefactorPizzaApp\SEDC.WebApp.ModelDemo\SEDC.WebApp.ModelDemo\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\hrist\Desktop\SEDC 2019-2020\07_MVC\Vezbi i proekti\MVCTasksAndExercises\Class07_RefactorPizzaApp\SEDC.WebApp.ModelDemo\SEDC.WebApp.ModelDemo\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\hrist\Desktop\SEDC 2019-2020\07_MVC\Vezbi i proekti\MVCTasksAndExercises\Class07_RefactorPizzaApp\SEDC.WebApp.ModelDemo\SEDC.WebApp.ModelDemo\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_MyLayout.cshtml.g.cs
+C:\Users\hrist\Desktop\SEDC 2019-2020\07_MVC\Vezbi i proekti\MVCTasksAndExercises\Class07_RefactorPizzaApp\SEDC.WebApp.ModelDemo\SEDC.WebApp.ModelDemo\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_PizzaCard.cshtml.g.cs
+C:\Users\hrist\Desktop\SEDC 2019-2020\07_MVC\Vezbi i proekti\MVCTasksAndExercises\Class07_RefactorPizzaApp\SEDC.WebApp.ModelDemo\SEDC.WebApp.ModelDemo\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\hrist\Desktop\SEDC 2019-2020\07_MVC\Vezbi i proekti\MVCTasksAndExercises\Class07_RefactorPizzaApp\SEDC.WebApp.ModelDemo\SEDC.WebApp.ModelDemo\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\hrist\Desktop\SEDC 2019-2020\07_MVC\Vezbi i proekti\MVCTasksAndExercises\Class07_RefactorPizzaApp\SEDC.WebApp.ModelDemo\SEDC.WebApp.ModelDemo\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\hrist\Desktop\SEDC 2019-2020\07_MVC\Vezbi i proekti\MVCTasksAndExercises\Class07_RefactorPizzaApp\SEDC.WebApp.ModelDemo\SEDC.WebApp.ModelDemo\obj\Debug\netcoreapp2.1\SEDC.WebApp.ModelDemo.RazorTargetAssemblyInfo.cache
+C:\Users\hrist\Desktop\SEDC 2019-2020\07_MVC\Vezbi i proekti\MVCTasksAndExercises\Class07_RefactorPizzaApp\SEDC.WebApp.ModelDemo\SEDC.WebApp.ModelDemo\obj\Debug\netcoreapp2.1\SEDC.WebApp.ModelDemo.RazorTargetAssemblyInfo.cs
+C:\Users\hrist\Desktop\SEDC 2019-2020\07_MVC\Vezbi i proekti\MVCTasksAndExercises\Class07_RefactorPizzaApp\SEDC.WebApp.ModelDemo\SEDC.WebApp.ModelDemo\obj\Debug\netcoreapp2.1\SEDC.WebApp.ModelDemo.Views.pdb
+C:\Users\hrist\Desktop\SEDC 2019-2020\07_MVC\Vezbi i proekti\MVCTasksAndExercises\Class07_RefactorPizzaApp\SEDC.WebApp.ModelDemo\SEDC.WebApp.ModelDemo\obj\Debug\netcoreapp2.1\SEDC.WebApp.ModelDemo.csproj.CopyComplete
+C:\Users\hrist\Desktop\SEDC 2019-2020\07_MVC\Vezbi i proekti\MVCTasksAndExercises\Class07_RefactorPizzaApp\SEDC.WebApp.ModelDemo\SEDC.WebApp.ModelDemo\obj\Debug\netcoreapp2.1\SEDC.WebApp.ModelDemo.dll
+C:\Users\hrist\Desktop\SEDC 2019-2020\07_MVC\Vezbi i proekti\MVCTasksAndExercises\Class07_RefactorPizzaApp\SEDC.WebApp.ModelDemo\SEDC.WebApp.ModelDemo\obj\Debug\netcoreapp2.1\SEDC.WebApp.ModelDemo.pdb
+C:\Users\hrist\Desktop\SEDC 2019-2020\07_MVC\Vezbi i proekti\MVCTasksAndExercises\Class07_RefactorPizzaApp\SEDC.WebApp.ModelDemo\SEDC.WebApp.ModelDemo\obj\Debug\netcoreapp2.1\SEDC.WebApp.ModelDemo.genruntimeconfig.cache
+C:\Users\hrist\Desktop\SEDC 2019-2020\GIT PROFILE\ASP.NET Core MVC projects\PizzaApp\SEDC.WebApp.ModelDemo\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\hrist\Desktop\SEDC 2019-2020\GIT PROFILE\ASP.NET Core MVC projects\PizzaApp\SEDC.WebApp.ModelDemo\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\hrist\Desktop\SEDC 2019-2020\GIT PROFILE\ASP.NET Core MVC projects\PizzaApp\SEDC.WebApp.ModelDemo\bin\Debug\netcoreapp2.1\SEDC.WebApp.ModelDemo.deps.json
+C:\Users\hrist\Desktop\SEDC 2019-2020\GIT PROFILE\ASP.NET Core MVC projects\PizzaApp\SEDC.WebApp.ModelDemo\bin\Debug\netcoreapp2.1\SEDC.WebApp.ModelDemo.runtimeconfig.json
+C:\Users\hrist\Desktop\SEDC 2019-2020\GIT PROFILE\ASP.NET Core MVC projects\PizzaApp\SEDC.WebApp.ModelDemo\bin\Debug\netcoreapp2.1\SEDC.WebApp.ModelDemo.runtimeconfig.dev.json
+C:\Users\hrist\Desktop\SEDC 2019-2020\GIT PROFILE\ASP.NET Core MVC projects\PizzaApp\SEDC.WebApp.ModelDemo\bin\Debug\netcoreapp2.1\SEDC.WebApp.ModelDemo.dll
+C:\Users\hrist\Desktop\SEDC 2019-2020\GIT PROFILE\ASP.NET Core MVC projects\PizzaApp\SEDC.WebApp.ModelDemo\bin\Debug\netcoreapp2.1\SEDC.WebApp.ModelDemo.pdb
+C:\Users\hrist\Desktop\SEDC 2019-2020\GIT PROFILE\ASP.NET Core MVC projects\PizzaApp\SEDC.WebApp.ModelDemo\bin\Debug\netcoreapp2.1\SEDC.WebApp.ModelDemo.Views.dll
+C:\Users\hrist\Desktop\SEDC 2019-2020\GIT PROFILE\ASP.NET Core MVC projects\PizzaApp\SEDC.WebApp.ModelDemo\bin\Debug\netcoreapp2.1\SEDC.WebApp.ModelDemo.Views.pdb
+C:\Users\hrist\Desktop\SEDC 2019-2020\GIT PROFILE\ASP.NET Core MVC projects\PizzaApp\SEDC.WebApp.ModelDemo\bin\Debug\netcoreapp2.1\SEDC.WebApp.ModelDemo.DataAccess.dll
+C:\Users\hrist\Desktop\SEDC 2019-2020\GIT PROFILE\ASP.NET Core MVC projects\PizzaApp\SEDC.WebApp.ModelDemo\bin\Debug\netcoreapp2.1\SEDC.WebApp.ModelDemo.Services.dll
+C:\Users\hrist\Desktop\SEDC 2019-2020\GIT PROFILE\ASP.NET Core MVC projects\PizzaApp\SEDC.WebApp.ModelDemo\bin\Debug\netcoreapp2.1\SEDC.WebApp.ModelDemo.DataAccess.pdb
+C:\Users\hrist\Desktop\SEDC 2019-2020\GIT PROFILE\ASP.NET Core MVC projects\PizzaApp\SEDC.WebApp.ModelDemo\bin\Debug\netcoreapp2.1\SEDC.WebApp.ModelDemo.Services.pdb
+C:\Users\hrist\Desktop\SEDC 2019-2020\GIT PROFILE\ASP.NET Core MVC projects\PizzaApp\SEDC.WebApp.ModelDemo\obj\Debug\netcoreapp2.1\SEDC.WebApp.ModelDemo.csprojAssemblyReference.cache
+C:\Users\hrist\Desktop\SEDC 2019-2020\GIT PROFILE\ASP.NET Core MVC projects\PizzaApp\SEDC.WebApp.ModelDemo\obj\Debug\netcoreapp2.1\SEDC.WebApp.ModelDemo.AssemblyInfoInputs.cache
+C:\Users\hrist\Desktop\SEDC 2019-2020\GIT PROFILE\ASP.NET Core MVC projects\PizzaApp\SEDC.WebApp.ModelDemo\obj\Debug\netcoreapp2.1\SEDC.WebApp.ModelDemo.AssemblyInfo.cs
+C:\Users\hrist\Desktop\SEDC 2019-2020\GIT PROFILE\ASP.NET Core MVC projects\PizzaApp\SEDC.WebApp.ModelDemo\obj\Debug\netcoreapp2.1\SEDC.WebApp.ModelDemo.csproj.CoreCompileInputs.cache
+C:\Users\hrist\Desktop\SEDC 2019-2020\GIT PROFILE\ASP.NET Core MVC projects\PizzaApp\SEDC.WebApp.ModelDemo\obj\Debug\netcoreapp2.1\SEDC.WebApp.ModelDemo.RazorAssemblyInfo.cache
+C:\Users\hrist\Desktop\SEDC 2019-2020\GIT PROFILE\ASP.NET Core MVC projects\PizzaApp\SEDC.WebApp.ModelDemo\obj\Debug\netcoreapp2.1\SEDC.WebApp.ModelDemo.RazorAssemblyInfo.cs
+C:\Users\hrist\Desktop\SEDC 2019-2020\GIT PROFILE\ASP.NET Core MVC projects\PizzaApp\SEDC.WebApp.ModelDemo\obj\Debug\netcoreapp2.1\SEDC.WebApp.ModelDemo.TagHelpers.input.cache
+C:\Users\hrist\Desktop\SEDC 2019-2020\GIT PROFILE\ASP.NET Core MVC projects\PizzaApp\SEDC.WebApp.ModelDemo\obj\Debug\netcoreapp2.1\SEDC.WebApp.ModelDemo.TagHelpers.output.cache
+C:\Users\hrist\Desktop\SEDC 2019-2020\GIT PROFILE\ASP.NET Core MVC projects\PizzaApp\SEDC.WebApp.ModelDemo\obj\Debug\netcoreapp2.1\SEDC.WebApp.ModelDemo.RazorCoreGenerate.cache
+C:\Users\hrist\Desktop\SEDC 2019-2020\GIT PROFILE\ASP.NET Core MVC projects\PizzaApp\SEDC.WebApp.ModelDemo\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\hrist\Desktop\SEDC 2019-2020\GIT PROFILE\ASP.NET Core MVC projects\PizzaApp\SEDC.WebApp.ModelDemo\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.cshtml.g.cs
+C:\Users\hrist\Desktop\SEDC 2019-2020\GIT PROFILE\ASP.NET Core MVC projects\PizzaApp\SEDC.WebApp.ModelDemo\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\hrist\Desktop\SEDC 2019-2020\GIT PROFILE\ASP.NET Core MVC projects\PizzaApp\SEDC.WebApp.ModelDemo\obj\Debug\netcoreapp2.1\Razor\Views\Home\PizzaDetails.cshtml.g.cs
+C:\Users\hrist\Desktop\SEDC 2019-2020\GIT PROFILE\ASP.NET Core MVC projects\PizzaApp\SEDC.WebApp.ModelDemo\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\hrist\Desktop\SEDC 2019-2020\GIT PROFILE\ASP.NET Core MVC projects\PizzaApp\SEDC.WebApp.ModelDemo\obj\Debug\netcoreapp2.1\Razor\Views\Order\Index.cshtml.g.cs
+C:\Users\hrist\Desktop\SEDC 2019-2020\GIT PROFILE\ASP.NET Core MVC projects\PizzaApp\SEDC.WebApp.ModelDemo\obj\Debug\netcoreapp2.1\Razor\Views\Order\OrderMenu.cshtml.g.cs
+C:\Users\hrist\Desktop\SEDC 2019-2020\GIT PROFILE\ASP.NET Core MVC projects\PizzaApp\SEDC.WebApp.ModelDemo\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\hrist\Desktop\SEDC 2019-2020\GIT PROFILE\ASP.NET Core MVC projects\PizzaApp\SEDC.WebApp.ModelDemo\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\hrist\Desktop\SEDC 2019-2020\GIT PROFILE\ASP.NET Core MVC projects\PizzaApp\SEDC.WebApp.ModelDemo\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\hrist\Desktop\SEDC 2019-2020\GIT PROFILE\ASP.NET Core MVC projects\PizzaApp\SEDC.WebApp.ModelDemo\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_MyLayout.cshtml.g.cs
+C:\Users\hrist\Desktop\SEDC 2019-2020\GIT PROFILE\ASP.NET Core MVC projects\PizzaApp\SEDC.WebApp.ModelDemo\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_PizzaCard.cshtml.g.cs
+C:\Users\hrist\Desktop\SEDC 2019-2020\GIT PROFILE\ASP.NET Core MVC projects\PizzaApp\SEDC.WebApp.ModelDemo\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\hrist\Desktop\SEDC 2019-2020\GIT PROFILE\ASP.NET Core MVC projects\PizzaApp\SEDC.WebApp.ModelDemo\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\hrist\Desktop\SEDC 2019-2020\GIT PROFILE\ASP.NET Core MVC projects\PizzaApp\SEDC.WebApp.ModelDemo\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\hrist\Desktop\SEDC 2019-2020\GIT PROFILE\ASP.NET Core MVC projects\PizzaApp\SEDC.WebApp.ModelDemo\obj\Debug\netcoreapp2.1\SEDC.WebApp.ModelDemo.RazorTargetAssemblyInfo.cache
+C:\Users\hrist\Desktop\SEDC 2019-2020\GIT PROFILE\ASP.NET Core MVC projects\PizzaApp\SEDC.WebApp.ModelDemo\obj\Debug\netcoreapp2.1\SEDC.WebApp.ModelDemo.RazorTargetAssemblyInfo.cs
+C:\Users\hrist\Desktop\SEDC 2019-2020\GIT PROFILE\ASP.NET Core MVC projects\PizzaApp\SEDC.WebApp.ModelDemo\obj\Debug\netcoreapp2.1\SEDC.WebApp.ModelDemo.Views.pdb
+C:\Users\hrist\Desktop\SEDC 2019-2020\GIT PROFILE\ASP.NET Core MVC projects\PizzaApp\SEDC.WebApp.ModelDemo\obj\Debug\netcoreapp2.1\SEDC.WebApp.ModelDemo.csproj.CopyComplete
+C:\Users\hrist\Desktop\SEDC 2019-2020\GIT PROFILE\ASP.NET Core MVC projects\PizzaApp\SEDC.WebApp.ModelDemo\obj\Debug\netcoreapp2.1\SEDC.WebApp.ModelDemo.dll
+C:\Users\hrist\Desktop\SEDC 2019-2020\GIT PROFILE\ASP.NET Core MVC projects\PizzaApp\SEDC.WebApp.ModelDemo\obj\Debug\netcoreapp2.1\SEDC.WebApp.ModelDemo.pdb
+C:\Users\hrist\Desktop\SEDC 2019-2020\GIT PROFILE\ASP.NET Core MVC projects\PizzaApp\SEDC.WebApp.ModelDemo\obj\Debug\netcoreapp2.1\SEDC.WebApp.ModelDemo.genruntimeconfig.cache
