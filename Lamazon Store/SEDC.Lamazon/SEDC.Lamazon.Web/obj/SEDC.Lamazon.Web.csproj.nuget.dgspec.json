@@ -1,21 +1,18 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hrist\\Desktop\\SEDC 2019-2020\\09_Practical ASP.NET apps development\\Proekt\\SEDC.Lamazon.Web\\Practical-ASP.NET-apps-development\\SEDC.Lamazon\\SEDC.Lamazon.Web\\SEDC.Lamazon.Web.csproj": {}
+    "E:\\SEDC\\SEDC 2019-2020\\GITHUB PROFILE\\ASP.NETCoreMVC-projects\\ASP.NETCoreMVC-projects\\Lamazon Store\\SEDC.Lamazon\\SEDC.Lamazon.Web\\SEDC.Lamazon.Web.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hrist\\Desktop\\SEDC 2019-2020\\09_Practical ASP.NET apps development\\Proekt\\SEDC.Lamazon.Web\\Practical-ASP.NET-apps-development\\SEDC.Lamazon\\SEDC.Lamazon.DataAccess\\SEDC.Lamazon.DataAccess.csproj": {
+    "E:\\SEDC\\SEDC 2019-2020\\GITHUB PROFILE\\ASP.NETCoreMVC-projects\\ASP.NETCoreMVC-projects\\Lamazon Store\\SEDC.Lamazon\\SEDC.Lamazon.DataAccess\\SEDC.Lamazon.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hrist\\Desktop\\SEDC 2019-2020\\09_Practical ASP.NET apps development\\Proekt\\SEDC.Lamazon.Web\\Practical-ASP.NET-apps-development\\SEDC.Lamazon\\SEDC.Lamazon.DataAccess\\SEDC.Lamazon.DataAccess.csproj",
+        "projectUniqueName": "E:\\SEDC\\SEDC 2019-2020\\GITHUB PROFILE\\ASP.NETCoreMVC-projects\\ASP.NETCoreMVC-projects\\Lamazon Store\\SEDC.Lamazon\\SEDC.Lamazon.DataAccess\\SEDC.Lamazon.DataAccess.csproj",
         "projectName": "SEDC.Lamazon.DataAccess",
-        "projectPath": "C:\\Users\\hrist\\Desktop\\SEDC 2019-2020\\09_Practical ASP.NET apps development\\Proekt\\SEDC.Lamazon.Web\\Practical-ASP.NET-apps-development\\SEDC.Lamazon\\SEDC.Lamazon.DataAccess\\SEDC.Lamazon.DataAccess.csproj",
+        "projectPath": "E:\\SEDC\\SEDC 2019-2020\\GITHUB PROFILE\\ASP.NETCoreMVC-projects\\ASP.NETCoreMVC-projects\\Lamazon Store\\SEDC.Lamazon\\SEDC.Lamazon.DataAccess\\SEDC.Lamazon.DataAccess.csproj",
         "packagesPath": "C:\\Users\\hrist\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hrist\\Desktop\\SEDC 2019-2020\\09_Practical ASP.NET apps development\\Proekt\\SEDC.Lamazon.Web\\Practical-ASP.NET-apps-development\\SEDC.Lamazon\\SEDC.Lamazon.DataAccess\\obj\\",
+        "outputPath": "E:\\SEDC\\SEDC 2019-2020\\GITHUB PROFILE\\ASP.NETCoreMVC-projects\\ASP.NETCoreMVC-projects\\Lamazon Store\\SEDC.Lamazon\\SEDC.Lamazon.DataAccess\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
           "C:\\Users\\hrist\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
@@ -31,8 +28,8 @@
           "netcoreapp2.1": {
             "targetAlias": "netcoreapp2.1",
             "projectReferences": {
-              "C:\\Users\\hrist\\Desktop\\SEDC 2019-2020\\09_Practical ASP.NET apps development\\Proekt\\SEDC.Lamazon.Web\\Practical-ASP.NET-apps-development\\SEDC.Lamazon\\SEDC.Lamazon.Domain\\SEDC.Lamazon.Domain.csproj": {
-                "projectPath": "C:\\Users\\hrist\\Desktop\\SEDC 2019-2020\\09_Practical ASP.NET apps development\\Proekt\\SEDC.Lamazon.Web\\Practical-ASP.NET-apps-development\\SEDC.Lamazon\\SEDC.Lamazon.Domain\\SEDC.Lamazon.Domain.csproj"
+              "E:\\SEDC\\SEDC 2019-2020\\GITHUB PROFILE\\ASP.NETCoreMVC-projects\\ASP.NETCoreMVC-projects\\Lamazon Store\\SEDC.Lamazon\\SEDC.Lamazon.Domain\\SEDC.Lamazon.Domain.csproj": {
+                "projectPath": "E:\\SEDC\\SEDC 2019-2020\\GITHUB PROFILE\\ASP.NETCoreMVC-projects\\ASP.NETCoreMVC-projects\\Lamazon Store\\SEDC.Lamazon\\SEDC.Lamazon.Domain\\SEDC.Lamazon.Domain.csproj"
               }
             }
           }
@@ -84,26 +81,24 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\hrist\\Desktop\\SEDC 2019-2020\\09_Practical ASP.NET apps development\\Proekt\\SEDC.Lamazon.Web\\Practical-ASP.NET-apps-development\\SEDC.Lamazon\\SEDC.Lamazon.Domain\\SEDC.Lamazon.Domain.csproj": {
+    "E:\\SEDC\\SEDC 2019-2020\\GITHUB PROFILE\\ASP.NETCoreMVC-projects\\ASP.NETCoreMVC-projects\\Lamazon Store\\SEDC.Lamazon\\SEDC.Lamazon.Domain\\SEDC.Lamazon.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hrist\\Desktop\\SEDC 2019-2020\\09_Practical ASP.NET apps development\\Proekt\\SEDC.Lamazon.Web\\Practical-ASP.NET-apps-development\\SEDC.Lamazon\\SEDC.Lamazon.Domain\\SEDC.Lamazon.Domain.csproj",
+        "projectUniqueName": "E:\\SEDC\\SEDC 2019-2020\\GITHUB PROFILE\\ASP.NETCoreMVC-projects\\ASP.NETCoreMVC-projects\\Lamazon Store\\SEDC.Lamazon\\SEDC.Lamazon.Domain\\SEDC.Lamazon.Domain.csproj",
         "projectName": "SEDC.Lamazon.Domain",
-        "projectPath": "C:\\Users\\hrist\\Desktop\\SEDC 2019-2020\\09_Practical ASP.NET apps development\\Proekt\\SEDC.Lamazon.Web\\Practical-ASP.NET-apps-development\\SEDC.Lamazon\\SEDC.Lamazon.Domain\\SEDC.Lamazon.Domain.csproj",
+        "projectPath": "E:\\SEDC\\SEDC 2019-2020\\GITHUB PROFILE\\ASP.NETCoreMVC-projects\\ASP.NETCoreMVC-projects\\Lamazon Store\\SEDC.Lamazon\\SEDC.Lamazon.Domain\\SEDC.Lamazon.Domain.csproj",
         "packagesPath": "C:\\Users\\hrist\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hrist\\Desktop\\SEDC 2019-2020\\09_Practical ASP.NET apps development\\Proekt\\SEDC.Lamazon.Web\\Practical-ASP.NET-apps-development\\SEDC.Lamazon\\SEDC.Lamazon.Domain\\obj\\",
+        "outputPath": "E:\\SEDC\\SEDC 2019-2020\\GITHUB PROFILE\\ASP.NETCoreMVC-projects\\ASP.NETCoreMVC-projects\\Lamazon Store\\SEDC.Lamazon\\SEDC.Lamazon.Domain\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
           "C:\\Users\\hrist\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
@@ -148,26 +143,24 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\hrist\\Desktop\\SEDC 2019-2020\\09_Practical ASP.NET apps development\\Proekt\\SEDC.Lamazon.Web\\Practical-ASP.NET-apps-development\\SEDC.Lamazon\\SEDC.Lamazon.Services\\SEDC.Lamazon.Services.csproj": {
+    "E:\\SEDC\\SEDC 2019-2020\\GITHUB PROFILE\\ASP.NETCoreMVC-projects\\ASP.NETCoreMVC-projects\\Lamazon Store\\SEDC.Lamazon\\SEDC.Lamazon.Services\\SEDC.Lamazon.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hrist\\Desktop\\SEDC 2019-2020\\09_Practical ASP.NET apps development\\Proekt\\SEDC.Lamazon.Web\\Practical-ASP.NET-apps-development\\SEDC.Lamazon\\SEDC.Lamazon.Services\\SEDC.Lamazon.Services.csproj",
+        "projectUniqueName": "E:\\SEDC\\SEDC 2019-2020\\GITHUB PROFILE\\ASP.NETCoreMVC-projects\\ASP.NETCoreMVC-projects\\Lamazon Store\\SEDC.Lamazon\\SEDC.Lamazon.Services\\SEDC.Lamazon.Services.csproj",
         "projectName": "SEDC.Lamazon.Services",
-        "projectPath": "C:\\Users\\hrist\\Desktop\\SEDC 2019-2020\\09_Practical ASP.NET apps development\\Proekt\\SEDC.Lamazon.Web\\Practical-ASP.NET-apps-development\\SEDC.Lamazon\\SEDC.Lamazon.Services\\SEDC.Lamazon.Services.csproj",
+        "projectPath": "E:\\SEDC\\SEDC 2019-2020\\GITHUB PROFILE\\ASP.NETCoreMVC-projects\\ASP.NETCoreMVC-projects\\Lamazon Store\\SEDC.Lamazon\\SEDC.Lamazon.Services\\SEDC.Lamazon.Services.csproj",
         "packagesPath": "C:\\Users\\hrist\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hrist\\Desktop\\SEDC 2019-2020\\09_Practical ASP.NET apps development\\Proekt\\SEDC.Lamazon.Web\\Practical-ASP.NET-apps-development\\SEDC.Lamazon\\SEDC.Lamazon.Services\\obj\\",
+        "outputPath": "E:\\SEDC\\SEDC 2019-2020\\GITHUB PROFILE\\ASP.NETCoreMVC-projects\\ASP.NETCoreMVC-projects\\Lamazon Store\\SEDC.Lamazon\\SEDC.Lamazon.Services\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
           "C:\\Users\\hrist\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
@@ -183,14 +176,14 @@
           "netcoreapp2.1": {
             "targetAlias": "netcoreapp2.1",
             "projectReferences": {
-              "C:\\Users\\hrist\\Desktop\\SEDC 2019-2020\\09_Practical ASP.NET apps development\\Proekt\\SEDC.Lamazon.Web\\Practical-ASP.NET-apps-development\\SEDC.Lamazon\\SEDC.Lamazon.DataAccess\\SEDC.Lamazon.DataAccess.csproj": {
-                "projectPath": "C:\\Users\\hrist\\Desktop\\SEDC 2019-2020\\09_Practical ASP.NET apps development\\Proekt\\SEDC.Lamazon.Web\\Practical-ASP.NET-apps-development\\SEDC.Lamazon\\SEDC.Lamazon.DataAccess\\SEDC.Lamazon.DataAccess.csproj"
+              "E:\\SEDC\\SEDC 2019-2020\\GITHUB PROFILE\\ASP.NETCoreMVC-projects\\ASP.NETCoreMVC-projects\\Lamazon Store\\SEDC.Lamazon\\SEDC.Lamazon.DataAccess\\SEDC.Lamazon.DataAccess.csproj": {
+                "projectPath": "E:\\SEDC\\SEDC 2019-2020\\GITHUB PROFILE\\ASP.NETCoreMVC-projects\\ASP.NETCoreMVC-projects\\Lamazon Store\\SEDC.Lamazon\\SEDC.Lamazon.DataAccess\\SEDC.Lamazon.DataAccess.csproj"
               },
-              "C:\\Users\\hrist\\Desktop\\SEDC 2019-2020\\09_Practical ASP.NET apps development\\Proekt\\SEDC.Lamazon.Web\\Practical-ASP.NET-apps-development\\SEDC.Lamazon\\SEDC.Lamazon.Domain\\SEDC.Lamazon.Domain.csproj": {
-                "projectPath": "C:\\Users\\hrist\\Desktop\\SEDC 2019-2020\\09_Practical ASP.NET apps development\\Proekt\\SEDC.Lamazon.Web\\Practical-ASP.NET-apps-development\\SEDC.Lamazon\\SEDC.Lamazon.Domain\\SEDC.Lamazon.Domain.csproj"
+              "E:\\SEDC\\SEDC 2019-2020\\GITHUB PROFILE\\ASP.NETCoreMVC-projects\\ASP.NETCoreMVC-projects\\Lamazon Store\\SEDC.Lamazon\\SEDC.Lamazon.Domain\\SEDC.Lamazon.Domain.csproj": {
+                "projectPath": "E:\\SEDC\\SEDC 2019-2020\\GITHUB PROFILE\\ASP.NETCoreMVC-projects\\ASP.NETCoreMVC-projects\\Lamazon Store\\SEDC.Lamazon\\SEDC.Lamazon.Domain\\SEDC.Lamazon.Domain.csproj"
               },
-              "C:\\Users\\hrist\\Desktop\\SEDC 2019-2020\\09_Practical ASP.NET apps development\\Proekt\\SEDC.Lamazon.Web\\Practical-ASP.NET-apps-development\\SEDC.Lamazon\\SEDC.Lamazon.WebModels\\SEDC.Lamazon.WebModels.csproj": {
-                "projectPath": "C:\\Users\\hrist\\Desktop\\SEDC 2019-2020\\09_Practical ASP.NET apps development\\Proekt\\SEDC.Lamazon.Web\\Practical-ASP.NET-apps-development\\SEDC.Lamazon\\SEDC.Lamazon.WebModels\\SEDC.Lamazon.WebModels.csproj"
+              "E:\\SEDC\\SEDC 2019-2020\\GITHUB PROFILE\\ASP.NETCoreMVC-projects\\ASP.NETCoreMVC-projects\\Lamazon Store\\SEDC.Lamazon\\SEDC.Lamazon.WebModels\\SEDC.Lamazon.WebModels.csproj": {
+                "projectPath": "E:\\SEDC\\SEDC 2019-2020\\GITHUB PROFILE\\ASP.NETCoreMVC-projects\\ASP.NETCoreMVC-projects\\Lamazon Store\\SEDC.Lamazon\\SEDC.Lamazon.WebModels\\SEDC.Lamazon.WebModels.csproj"
               }
             }
           }
@@ -222,26 +215,24 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\hrist\\Desktop\\SEDC 2019-2020\\09_Practical ASP.NET apps development\\Proekt\\SEDC.Lamazon.Web\\Practical-ASP.NET-apps-development\\SEDC.Lamazon\\SEDC.Lamazon.WebModels\\SEDC.Lamazon.WebModels.csproj": {
+    "E:\\SEDC\\SEDC 2019-2020\\GITHUB PROFILE\\ASP.NETCoreMVC-projects\\ASP.NETCoreMVC-projects\\Lamazon Store\\SEDC.Lamazon\\SEDC.Lamazon.WebModels\\SEDC.Lamazon.WebModels.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hrist\\Desktop\\SEDC 2019-2020\\09_Practical ASP.NET apps development\\Proekt\\SEDC.Lamazon.Web\\Practical-ASP.NET-apps-development\\SEDC.Lamazon\\SEDC.Lamazon.WebModels\\SEDC.Lamazon.WebModels.csproj",
+        "projectUniqueName": "E:\\SEDC\\SEDC 2019-2020\\GITHUB PROFILE\\ASP.NETCoreMVC-projects\\ASP.NETCoreMVC-projects\\Lamazon Store\\SEDC.Lamazon\\SEDC.Lamazon.WebModels\\SEDC.Lamazon.WebModels.csproj",
         "projectName": "SEDC.Lamazon.WebModels",
-        "projectPath": "C:\\Users\\hrist\\Desktop\\SEDC 2019-2020\\09_Practical ASP.NET apps development\\Proekt\\SEDC.Lamazon.Web\\Practical-ASP.NET-apps-development\\SEDC.Lamazon\\SEDC.Lamazon.WebModels\\SEDC.Lamazon.WebModels.csproj",
+        "projectPath": "E:\\SEDC\\SEDC 2019-2020\\GITHUB PROFILE\\ASP.NETCoreMVC-projects\\ASP.NETCoreMVC-projects\\Lamazon Store\\SEDC.Lamazon\\SEDC.Lamazon.WebModels\\SEDC.Lamazon.WebModels.csproj",
         "packagesPath": "C:\\Users\\hrist\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hrist\\Desktop\\SEDC 2019-2020\\09_Practical ASP.NET apps development\\Proekt\\SEDC.Lamazon.Web\\Practical-ASP.NET-apps-development\\SEDC.Lamazon\\SEDC.Lamazon.WebModels\\obj\\",
+        "outputPath": "E:\\SEDC\\SEDC 2019-2020\\GITHUB PROFILE\\ASP.NETCoreMVC-projects\\ASP.NETCoreMVC-projects\\Lamazon Store\\SEDC.Lamazon\\SEDC.Lamazon.WebModels\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
           "C:\\Users\\hrist\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
@@ -282,26 +273,24 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\hrist\\Desktop\\SEDC 2019-2020\\09_Practical ASP.NET apps development\\Proekt\\SEDC.Lamazon.Web\\Practical-ASP.NET-apps-development\\SEDC.Lamazon\\SEDC.Lamazon.Web\\SEDC.Lamazon.Web.csproj": {
+    "E:\\SEDC\\SEDC 2019-2020\\GITHUB PROFILE\\ASP.NETCoreMVC-projects\\ASP.NETCoreMVC-projects\\Lamazon Store\\SEDC.Lamazon\\SEDC.Lamazon.Web\\SEDC.Lamazon.Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hrist\\Desktop\\SEDC 2019-2020\\09_Practical ASP.NET apps development\\Proekt\\SEDC.Lamazon.Web\\Practical-ASP.NET-apps-development\\SEDC.Lamazon\\SEDC.Lamazon.Web\\SEDC.Lamazon.Web.csproj",
+        "projectUniqueName": "E:\\SEDC\\SEDC 2019-2020\\GITHUB PROFILE\\ASP.NETCoreMVC-projects\\ASP.NETCoreMVC-projects\\Lamazon Store\\SEDC.Lamazon\\SEDC.Lamazon.Web\\SEDC.Lamazon.Web.csproj",
         "projectName": "SEDC.Lamazon.Web",
-        "projectPath": "C:\\Users\\hrist\\Desktop\\SEDC 2019-2020\\09_Practical ASP.NET apps development\\Proekt\\SEDC.Lamazon.Web\\Practical-ASP.NET-apps-development\\SEDC.Lamazon\\SEDC.Lamazon.Web\\SEDC.Lamazon.Web.csproj",
+        "projectPath": "E:\\SEDC\\SEDC 2019-2020\\GITHUB PROFILE\\ASP.NETCoreMVC-projects\\ASP.NETCoreMVC-projects\\Lamazon Store\\SEDC.Lamazon\\SEDC.Lamazon.Web\\SEDC.Lamazon.Web.csproj",
         "packagesPath": "C:\\Users\\hrist\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hrist\\Desktop\\SEDC 2019-2020\\09_Practical ASP.NET apps development\\Proekt\\SEDC.Lamazon.Web\\Practical-ASP.NET-apps-development\\SEDC.Lamazon\\SEDC.Lamazon.Web\\obj\\",
+        "outputPath": "E:\\SEDC\\SEDC 2019-2020\\GITHUB PROFILE\\ASP.NETCoreMVC-projects\\ASP.NETCoreMVC-projects\\Lamazon Store\\SEDC.Lamazon\\SEDC.Lamazon.Web\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
           "C:\\Users\\hrist\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
@@ -317,8 +306,8 @@
           "netcoreapp2.1": {
             "targetAlias": "netcoreapp2.1",
             "projectReferences": {
-              "C:\\Users\\hrist\\Desktop\\SEDC 2019-2020\\09_Practical ASP.NET apps development\\Proekt\\SEDC.Lamazon.Web\\Practical-ASP.NET-apps-development\\SEDC.Lamazon\\SEDC.Lamazon.Services\\SEDC.Lamazon.Services.csproj": {
-                "projectPath": "C:\\Users\\hrist\\Desktop\\SEDC 2019-2020\\09_Practical ASP.NET apps development\\Proekt\\SEDC.Lamazon.Web\\Practical-ASP.NET-apps-development\\SEDC.Lamazon\\SEDC.Lamazon.Services\\SEDC.Lamazon.Services.csproj"
+              "E:\\SEDC\\SEDC 2019-2020\\GITHUB PROFILE\\ASP.NETCoreMVC-projects\\ASP.NETCoreMVC-projects\\Lamazon Store\\SEDC.Lamazon\\SEDC.Lamazon.Services\\SEDC.Lamazon.Services.csproj": {
+                "projectPath": "E:\\SEDC\\SEDC 2019-2020\\GITHUB PROFILE\\ASP.NETCoreMVC-projects\\ASP.NETCoreMVC-projects\\Lamazon Store\\SEDC.Lamazon\\SEDC.Lamazon.Services\\SEDC.Lamazon.Services.csproj"
               }
             }
           }
@@ -415,11 +404,12 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

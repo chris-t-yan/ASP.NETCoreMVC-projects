@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MUJRNx74KaUGLZS1rSRp8f8Ms38UOW6oUsWdYD93tg7SbBn54his/V6KR7gkAikClpz5bt+6Tb5uot7zbMHYAw==",
+  "dgSpecHash": "o1hYCIhdlxjOu20A8TRr4/XGmjHeweJiJ/1SUoDO9wxb266CVKBw5q1Ovn9c/9VTMKjkq/eyhh+MBc8WCgsmew==",
   "success": true,
-  "projectFilePath": "C:\\Users\\hrist\\Desktop\\SEDC 2019-2020\\09_Practical ASP.NET apps development\\Proekt\\SEDC.Lamazon.Web\\Practical-ASP.NET-apps-development\\SEDC.Lamazon\\SEDC.Lamazon.WebModels\\SEDC.Lamazon.WebModels.csproj",
+  "projectFilePath": "E:\\SEDC\\SEDC 2019-2020\\GITHUB PROFILE\\ASP.NETCoreMVC-projects\\ASP.NETCoreMVC-projects\\Lamazon Store\\SEDC.Lamazon\\SEDC.Lamazon.WebModels\\SEDC.Lamazon.WebModels.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hrist\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
     "C:\\Users\\hrist\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
